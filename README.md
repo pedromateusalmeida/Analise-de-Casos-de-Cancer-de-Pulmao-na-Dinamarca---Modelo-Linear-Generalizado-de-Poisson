@@ -18,7 +18,6 @@ O principal objetivo deste projeto é desenvolver um modelo linear generalizado 
 
 ## Roteiro da Atividade
 
-### Questão 2
 
 1. **Informações Básicas do Dataset**
     - Print das 5 primeiras linhas
